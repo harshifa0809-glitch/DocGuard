@@ -38,7 +38,7 @@ DocGuard/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/DocGuard.git
+   git clone https://github.com/harshifa0809-glitch/DocGuard.git
    cd DocGuard
    ```
 2. (Optional) create a virtual environment
